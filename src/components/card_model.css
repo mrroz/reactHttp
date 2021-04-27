@@ -1,0 +1,17 @@
+.model {
+    width: 70%;
+    height: 100px;
+    background-color: white;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 25px;
+    box-shadow: 0 1px 25px 0 rgba(164, 44, 168, 0.205);
+}
+
+.model .info {
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 25px;
+}
